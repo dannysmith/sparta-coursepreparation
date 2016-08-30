@@ -4,7 +4,7 @@ In order to be successful on your course you must spend some time preparing your
 
 ### Mandatory pre-course training
 
-Before you join a Sparta course, you *must* completed the tasks and exercises outlined below. In total there are 42 hours worth of practical coding exercises *plus* topical reading. If you are attending an SDET, JavaScript Engineer, Web Development or DevOps course, you must also complete the following pre-training:
+Before you join a Sparta course, you *must* completed the tasks and exercises outlined below. In total there are 42 hours worth of practical coding exercises *plus* topical reading. If you are attending an SDET, JavaScript Engineer, Web Development or DevOps course, you must also complete subject-specific online material as indicated below:
 
 * [Medium](#medium)
 * [Pocket](#pocket)
@@ -87,6 +87,8 @@ Being a good technologist is about far more than writing good code or testing: I
 On the course, you will be using a Mac for everything. If you have used one in the past this should be easy, but if you're new to macOS then there are some subtle differences in how it works. The faster you are at using your machine, the more time you will have to focus on the course material.
 
 If you don't have access to mac, it would be worth borrowing one from a friend or going into an Apple Store and having a play with one. The Apple Store also offers instruction on the basics of using a mac.
+
+If you do not have a Macbook, don't worry. We have Macbooks we can loan to you free of charge for the duration of your course. 
 
 #### Things to know before the course
 1. **A fancier trackpad** - The mac trackpad allows much more functionality than most windows machines, especially with the use of multi-touch gestures. These will be incredibly useful when navigating between different windows and programs. Spend some time practising these and how they can be used. They can also be customised in System Preferences.
