@@ -119,17 +119,20 @@ Regardless of the course you're applying for, you're likely to spend a fair amou
 You'll use markdown extensively during the course, and many of our students use it to write their notes. (**Interesting fact**: This document is written in Markdown🌟). 
 
 
-## More online training
+#### HTML & CSS
 
-Aside from learning the command line and markdown, we'd also recommend that you brush up on some other core competencies.
+Codecademy's free *[HTML & CSS Course](https://www.codecademy.com/learn/web)* (7 hours) offers a free set of lessons on building basic web pages. You'll need this across all courses and it's a vital skill for a career in tech.
 
-If you haven't completed them already, we suggest that you complete the free elements of:
+#### Git
 
-* Codeacademy's *[Learn Git Course](https://www.codecademy.com/learn/learn-git)* (2 hours).
-* Codeacademy's *[Learn SQL](https://www.codecademy.com/learn/learn-sql)* (2 hours)
-* Codecademy's *[HTML & CSS Course](https://www.codecademy.com/learn/web)* (7 hours)
+Codeacademy's free *[Learn Git Course](https://www.codecademy.com/learn/learn-git)* (2 hours) is a good place to start learning about version control.
 
-Once you've done that, feel free to start any of the other Codecademy courses. They'll all help to expand your knowledge in the right direction.
+#### SQL
+
+Codeacademy's free [Learn SQL](https://www.codecademy.com/learn/learn-sql)* course (2 hours) is a good way to get some understanding about databases. 
+
+
+Once you've done all of the above, feel free to start any of other courses on Codecademy and other online learning platforms. They'll all help to expand your knowledge in the right direction. The more preparation you do the better off you will be.
 
 ##### Paid Training
 
