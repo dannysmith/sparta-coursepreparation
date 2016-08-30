@@ -1,10 +1,10 @@
 # Course Preparation
 
-We recommend that you spend some time preparing for your course. This document gives some advice on what you can do to make your life much easier once you start and how to improve your knowledge in general.
+In order to be successful on your course you must spend some time preparing yourself to learn. This document outlines the tasks you should complete in order to familiarise yourself with the basic technical foundations you'll need to know in order to take your course. It also gives advice on steps you can take to make your learning experience easier once you start.
 
 ### Mandatory pre-course training
 
-Before you join a Sparta course, you *must* have completed the actions in the following sections of this document:
+Before you join a Sparta course, you *must* completed the tasks and exercises outlined below. In total there are 42 hours worth of practical coding exercises *plus* topical reading. If you are attending an SDET, JavaScript Engineer, Web Development or DevOps course, you must also complete the following pre-training:
 
 * [Medium](#medium)
 * [Pocket](#pocket)
@@ -12,7 +12,6 @@ Before you join a Sparta course, you *must* have completed the actions in the fo
 * [The Command Line](#the-command-line)
 * [Markdown](#markdown)
 
-If you are attending an SDET, JavaScript Engineer, Web Development or DevOps course, you must also complete the following pre-training:
 
 * Codeacademy's *[Learn Git Course](https://www.codecademy.com/learn/learn-git)* (2 hours)
 * Codeacademy's *[Learn SQL](https://www.codecademy.com/learn/learn-sql)* (2 hours)
