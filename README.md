@@ -4,7 +4,7 @@ In order to be successful on your course you must spend some time preparing your
 
 ### Mandatory pre-course training
 
-Before you join a Sparta course, you *must* complete the tasks and exercises outlined below. In total there are 42 hours worth of practical coding exercises *plus* topical reading. If you are attending an SDET, JavaScript Engineer, Web Development or DevOps course, you must also complete subject-specific online material as indicated below:
+Before you join a Sparta course, you *must* complete the tasks and exercises outlined below. In total there are 42 hours worth of practical coding exercises *plus* topical reading. If you are a trainee on the SDET (Ruby engineers in Test), JavaScript Web Development, DevOps or Software Testing courses, all the tasks/topics of revision listed below are mandatory; trainees in the Business Analyst and Project Management courses must speak to one of the enrolment team to confirm the preparatory reading list for their courses. 
 
 * [Medium](#medium)
 * [Pocket](#pocket)
