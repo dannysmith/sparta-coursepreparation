@@ -4,7 +4,7 @@ In order to be successful on your course you must spend some time preparing your
 
 ### Mandatory pre-course training
 
-Before you join a Sparta course, you *must* complete the tasks and exercises outlined below. In total there are 42 hours worth of practical coding exercises *plus* topical reading. If you are a trainee on the SDET (Ruby engineers in Test), JavaScript Web Development, DevOps or Software Testing courses, all the tasks/topics of revision listed below are mandatory; trainees in the Business Analyst and Project Management courses must speak to one of the enrolment team to confirm the preparatory reading list for their courses. 
+Before you join a Sparta course, you *must* complete the tasks and exercises outlined below. In total there are 42 hours worth of practical coding exercises *plus* topical reading. If you are a trainee on the engineering/technical stream (test automation engineers, DevOps and web dev, all the tasks/topics of revision listed below are mandatory; trainees in the Manual Software Testing, Business Analysis or Project Management courses must speak to one of the Talent team to confirm the preparatory reading list for their courses. 
 
 * [Medium](#medium)
 * [Pocket](#pocket)
@@ -17,27 +17,23 @@ Before you join a Sparta course, you *must* complete the tasks and exercises out
 * Codeacademy's *[Learn SQL](https://www.codecademy.com/learn/learn-sql)* (2 hours)
 * Codecademy's *[HTML & CSS Course](https://www.codecademy.com/learn/web)* (7 hours)
 
-For **SDET** Students:
+For **Engineering/Technical** Students:
 
 * Codecademy's [Ruby Course](https://www.codecademy.com/learn/ruby) (9 hours)
 
-For **Web Development** or **JavaScript Engineering** Students:
-
 * Codecademy's [JavaScript Course](https://www.codecademy.com/learn/javascript) (10 hours)
-
-We'll be checking to make sure that you've completed the pre-work on day one of the course.
 
 ***
 
-## Developing the right mindset
+## Developing the Right Mindset
 
 Our training courses aim to produce [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) people, with a wide breadth of skills plus a specialism. The core modules therefore cover a lot of ground, so anything you can do to gain some prior knowledge will help out.
 
-As far as we're concerned, two of the most important traits for success in the tech industry are **[passion](http://sparta.global/deloitte-pssion)** and **[curiosity](http://sparta.global/cio-curiosity)**. We're hoping you're already passionate about technology, but having the curiosity to find out how and why things work may be something you need to develop.
+As far as we're concerned, two of the most important traits for success in the tech industry are **passion** and **curiosity**. We're hoping you're already passionate about technology, but having the curiosity to find out how and why things work may be something you need to develop.
 
 > *Read everything you can, and then find more to read. That's the best advice I can offer!* – **Joe Buckwell**, Sparta Graduate
 
-## Finding things to read
+## Finding Things to Read
 
 This document provides a few starting points, but it's important that you learn to find interesting stuff through your own channels. Two good places to start are [Twitter](http://twitter.com) and [Medium](http://medium.com).
 
@@ -51,7 +47,6 @@ This document provides a few starting points, but it's important that you learn 
     * [Business](https://medium.com/tag/business)
     * [Innovation](https://medium.com/tag/innovation)
     * [FreeCodeCamp](https://medium.freecodecamp.com/)
-    * [Sparta Global](https://medium.com/sparta-global)
     * [BackChannel](https://backchannel.com/)
     * [The Startup](https://medium.com/swlh)
     * [Personal Growth](https://medium.com/keep-learning-keep-growing)
@@ -84,7 +79,7 @@ Being a good technologist is about far more than writing good code or testing: I
 
 ## Using a Mac
 
-On the course, you will be using a Mac for everything. If you have used one in the past this should be easy, but if you're new to macOS then there are some subtle differences in how it works. The faster you are at using your machine, the more time you will have to focus on the course material.
+On the course, you will be using a Mac for everything if you are on a technical stream. If you have used one in the past this should be easy, but if you're new to macOS then there are some subtle differences in how it works. The faster you are at using your machine, the more time you will have to focus on the course material.
 
 If you don't have access to mac, it would be worth borrowing one from a friend or going into an Apple Store and having a play with one. The Apple Store also offers instruction on the basics of using a mac.
 
