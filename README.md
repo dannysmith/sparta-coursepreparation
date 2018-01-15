@@ -4,10 +4,8 @@ In order to be successful on your course you must spend some time preparing your
 
 ### Mandatory pre-course training
 
-Before you join a Sparta course, you *must* complete the tasks and exercises outlined below. In total there are 42 hours worth of practical coding exercises *plus* topical reading. If you are a trainee on the engineering/technical stream (test automation engineers, DevOps and web dev) all the tasks/topics of revision listed below are mandatory; trainees in the Manual Software Testing, Business Analysis or Project Management courses must speak to one of the Talent team to confirm the preparatory reading list for their courses. 
+Before you join a Sparta course, you *must* complete the tasks and exercises outlined below. If you are a trainee on the engineering/technical stream (test automation engineers, DevOps and web dev) all the tasks/topics of revision listed below are mandatory; trainees in the Manual Software Testing, Business Analysis or Project Management courses must speak to one of the Talent team to confirm the preparatory reading list for their courses. 
 
-* [Medium](#medium)
-* [Pocket](#pocket)
 * [Using a Mac](#using-a-mac)
 * [The Command Line](#the-command-line)
 * [Markdown](#markdown)
@@ -15,7 +13,7 @@ Before you join a Sparta course, you *must* complete the tasks and exercises out
 
 * Codeacademy's *[Learn Git Course](https://www.codecademy.com/learn/learn-git)* (2 hours)
 * Codeacademy's *[Learn SQL](https://www.codecademy.com/learn/learn-sql)* (2 hours)
-* Codecademy's *[HTML & CSS Course](https://www.codecademy.com/learn/web)* (7 hours)
+* Codeacademy's *[HTML & CSS Course](https://www.codecademy.com/learn/web)* (7 hours)
 
 For **Engineering/Technical** Students:
 
@@ -36,40 +34,6 @@ As far as we're concerned, two of the most important traits for success in the t
 ## Finding Things to Read
 
 This document provides a few starting points, but it's important that you learn to find interesting stuff through your own channels. Two good places to start are [Twitter](http://twitter.com) and [Medium](http://medium.com).
-
-#### Medium 
-1. **Set up an account** – You'll be using Medium to write and publish articles during your course.
-2. **Follow some people** – Follow tags, people and publications that align with your interests in technology. You could start with these:
-    * [Technology](https://medium.com/tag/technology)
-    * [Startup](https://medium.com/tag/startup)
-    * [Ruby](https://medium.com/tag/ruby) (or whatever programming language you favour)
-    * [DevOps](https://medium.com/tag/devops)
-    * [Business](https://medium.com/tag/business)
-    * [Innovation](https://medium.com/tag/innovation)
-    * [FreeCodeCamp](https://medium.freecodecamp.com/)
-    * [BackChannel](https://backchannel.com/)
-    * [The Startup](https://medium.com/swlh)
-    * [Personal Growth](https://medium.com/keep-learning-keep-growing)
-    * [Medium Engineering](https://medium.engineering/)
-    * [Several People are Typing](https://slack.engineering/)
-
-3. **Get the apps** – Install the Medium app on your phone. The bookmarks feature is useful.
-4. **Write** – If you fancy it, write an article ✍️.
-
-#### Twitter
-
-Twitter is a brilliant place to find interesting and relevant articles, but only if you follow the right people. You could start by following Medium authors whose articles you've enjoyed, and build your list up by looking at the people they follow.
-
-Feel free to share any good articles or videos you find with [@spartaglobal](http://twitter.com/spartaglobal), too!
-
-#### Pocket
-
-Once you start following enough people on Twitter, Medium, YouTube and the like, it's very easy to get overwhelmed with all the interesting content. Pocket allows you to save articles when you see them, to read them later.
-
-1. Sign up for an account at http://getpocket.com.
-2. Install the Browser extension.
-3. Install the app on your phone.
-4. Start saving and reading articles.
 
 #### What to read?
 
@@ -128,26 +92,6 @@ Codeacademy's free [Learn SQL](https://www.codecademy.com/learn/learn-sql)* cour
 
 
 Once you've done all of the above, feel free to start any of other courses on Codecademy and other online learning platforms. They'll all help to expand your knowledge in the right direction. The more preparation you do the better off you will be.
-
-##### Paid Training
-
-If you've got time on your hands and don't mind spending a bit of money, [CodeSchool](https://www.codeschool.com/) offers some fantastic courses in Engineering, while [Linux Academy](https://linuxacademy.com/) offers some great DevOps and Sys Admin training.
-
-> ⚠️**WARNING:** The CodeSchool and Linux Academy courses are pretty tough. It's far better that you get comfortable with everything else than try to push yourself too far – you run the risk of forgetting the more important stuff. 
-
-If you do sign up for either of these, we'd suggest:
-
-* _CodeSchool_
-    * **Front-end Foundations** and **Formations** - for anyone.
-    * **Try SQL** and **The Sequel to SQL** - for anyone.
-    * **Try Git**, **Git Real** and **Mastering GitHub** - for anyone.
-    * **MongoDB** - for JS engineers.
-    * **JavaScript Road Trip parts 1 and 2** - for JS engineers.
-    * **Try Ruby** and **Ruby Bits** - for SDET and DevOps engineers.
-* _Linux Academy_
-    * **Linux Essentials** - for DevOps engineers.
-    * **DevOps Essentials** - for DevOps engineers.
-
 
 ## Agile Software Development
 
