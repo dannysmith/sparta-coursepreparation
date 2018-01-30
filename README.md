@@ -4,7 +4,7 @@ In order to be successful on your course you must spend some time preparing your
 
 ### Mandatory pre-course training
 
-Before you join a Sparta course, you *must* complete the tasks and exercises outlined below. If you are a trainee on the engineering/technical stream (test automation engineers, DevOps and web dev) all the tasks/topics of revision listed below are mandatory; trainees in the Manual Software Testing, Business Analysis or Project Management courses must speak to one of the Talent team to confirm the preparatory reading list for their courses. 
+Before you join a Sparta course, you *must* complete the tasks and exercises outlined below. If you are a trainee on the engineering/technical stream (test automation engineers, DevOps and web dev) all the tasks/topics of revision listed below are mandatory; trainees in the Manual Software Testing, Business Analysis or Project Management courses must speak to one of the Talent team to confirm the preparatory reading list for their courses.
 
 * [Using a Mac](#using-a-mac)
 * [The Command Line](#the-command-line)
@@ -47,7 +47,7 @@ On the course, you will be using a Mac for everything if you are on a technical 
 
 If you don't have access to mac, it would be worth borrowing one from a friend or going into an Apple Store and having a play with one. The Apple Store also offers instruction on the basics of using a mac.
 
-If you do not have a Macbook, don't worry. We have Macbooks we can loan to you free of charge for the duration of your course. 
+If you do not have a Macbook, don't worry. We have Macbooks we can loan to you free of charge for the duration of your course.
 
 #### Things to know before the course
 1. **A fancier trackpad** - The mac trackpad allows much more functionality than most windows machines, especially with the use of multi-touch gestures. These will be incredibly useful when navigating between different windows and programs. Spend some time practising these and how they can be used. They can also be customised in System Preferences.
@@ -55,11 +55,20 @@ If you do not have a Macbook, don't worry. We have Macbooks we can loan to you f
 2. **The dock** - Instead of a start menu, a mac makes use of a dock at the bottom of the screen. This can be configured any way the user wants to contain all the things used most often.
 3. **The finder** - Mac's version of the file explorer, allows navigation throughout the files and folders on the machine.
 4. **Drag and drop** - On a mac, most things can be dragged and dropped somewhere else. Whether it's images from the internet, files on the desktop, apps in the dock, drag and drop is your friend.
-5. **Installing programs** - Installation is a breeze on a mac, you simply download a `.dmg` or `.pkg` file. You may need to either execute a `.pkg` or simply drag a file into your Applications folder and you're all set. 
+5. **Installing programs** - Installation is a breeze on a mac, you simply download a `.dmg` or `.pkg` file. You may need to either execute a `.pkg` or simply drag a file into your Applications folder and you're all set.
 5. **Spotlight search** - This simple search can be opened with the keyboard shortcut `cmd + space`, and allows search throughout your entire machine. This is really useful when you first start and you're not sure exactly where everything is!
 6. **Terminal** - The program that gives access to the command line in mac. There are some useful keyboard shortcuts in this [terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet/blob/master/README.md).
 7. **Multiple desktops** - A really useful workflow tool. Multiple desktops can be added and navigated through using multi-touch gestures.
-8. **Different keys** - Watch out for that cheeky `@` sign, he's in a different place! There is also the `cmd` key used for keyboard shortcuts. 
+8. **Different keys** - Watch out for that cheeky `@` sign, he's in a different place! There is also the `cmd` key used for keyboard shortcuts.
+
+## Microsoft Tools
+
+Please run through the tutorials for the following Microsoft tools and familiarise yourself with how they're used.
+
+1. [Outlook](https://support.office.com/en-gb/article/Outlook-video-training-8a5b816d-9052-4190-a5eb-494512343cca?wt.mc_id=otc_home&ui=en-US&rs=en-GB&ad=GB)
+2. [Excel](https://support.office.com/en-gb/article/Excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?wt.mc_id=otc_home&ui=en-US&rs=en-GB&ad=GB)
+3. [Word](https://support.office.com/en-gb/article/Word-video-training-7bcd85e6-2c3d-4c3c-a2a5-5ed8847eae73?wt.mc_id=otc_home&ui=en-US&rs=en-GB&ad=GB)
+4. [Teams](https://support.office.com/en-gb/article/Microsoft-Teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7?wt.mc_id=otc_home&ui=en-US&rs=en-GB&ad=GB) - this is an internal platform we use for messaging and file sharing within the company.
 
 ## Learning the basics
 
@@ -68,14 +77,14 @@ If you do not have a Macbook, don't worry. We have Macbooks we can loan to you f
 Regardless of the course you're applying for, you're likely to spend a fair amount of time working with the command line. For those hoping to become engineers (whether development, DevOps or SDET), this is doubly important. We'd recommend the following:
 
 1. Complete free elements of the Codecademy *[Learn the Command Line Course](https://www.codecademy.com/learn/learn-the-command-line)* (3 hours).
-2. Spend some time practising some of the basics. Command like `cd`, `cp`, `mv`, `rm`, `touch`, `ls` should be second nature to you. 
+2. Spend some time practising some of the basics. Command like `cd`, `cp`, `mv`, `rm`, `touch`, `ls` should be second nature to you.
 3. **Bonus:** If you fancy a challenge, you could also look into [Vim](http://www.vim.org/) – you might find [this](http://www.openvim.com/) useful.
 
 #### Markdown
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a simple language which is used extensively in the tech world. The syntax is pretty simple, and we highly recommend that you [learn it](https://blog.ghost.org/markdown/) before joining the course. Here's a [good interactive tutorial](http://www.markdowntutorial.com/).
 
-You'll use markdown extensively during the course, and many of our students use it to write their notes. (**Interesting fact**: This document is written in Markdown🌟). 
+You'll use markdown extensively during the course, and many of our students use it to write their notes. (**Interesting fact**: This document is written in Markdown🌟).
 
 
 #### HTML & CSS
@@ -88,7 +97,7 @@ Codeacademy's free *[Learn Git Course](https://www.codecademy.com/learn/learn-gi
 
 #### SQL
 
-Codeacademy's free [Learn SQL](https://www.codecademy.com/learn/learn-sql)* course (2 hours) is a good way to get some understanding about databases. 
+Codeacademy's free [Learn SQL](https://www.codecademy.com/learn/learn-sql)* course (2 hours) is a good way to get some understanding about databases.
 
 
 Once you've done all of the above, feel free to start any of other courses on Codecademy and other online learning platforms. They'll all help to expand your knowledge in the right direction. The more preparation you do the better off you will be.
